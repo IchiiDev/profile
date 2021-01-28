@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <div id="vue-managed">
+        <title>{{ username }}</title>
+    </div>
+    <!-- Import Font Awesome Icon Kit -->
+    <script src="https://kit.fontawesome.com/6e5392ed44.js" crossorigin="anonymous"></script>
+    <!-- Import Vue.js -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2"></script>
+    <!-- Import Bulma CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.css">
+    <!-- Import Custom CSS -->
+    <link rel="stylesheet" href="assets/style.css">
+
+
+</head>
+<body>
+    <div class="box profile">
+        <div class="top-part">
+            <img class="profile-picture" v-bind:src="profile_picture" alt="Profile Picture" />
+            <p class="name">{{ username }}</p>
+            <ul class="badges">
+                <li v-for="badge in badges"><img v-bind:src="badge.image" v-bind:alt="badge.id" /></li>
+            </ul>
+        </div>
+        <div class="middle-part">
+        <div class="bio">
+            <p v-html="description"></p>
+        </div>
+        <hr>
+        <div class="projects">
+            <h1>The projects I work on:</h1>
+            <a v-for="project in projects" class="project-box" v-bind:href="project.link" target="_blank" v-bind:id="project.id">
+                <img v-bind:src="project.image" v-bind:alt="project.name" />
+                <p>{{ project.name }}</p>
+            </a>
+        </div>
+        </div>
+        <div class="bottom-part">
+            <ul class="social">
+                <li v-for="social in socials"><a v-bind:class="social.class_name" v-bind:href="social.link" target="_blank"></a></li>
+            </ul>
+        </div>
+    </div>
+
+    <script src="./assets/config.js"></script>
+    <script src="./assets/app.js"></script>
+
+</body>
+</html>
