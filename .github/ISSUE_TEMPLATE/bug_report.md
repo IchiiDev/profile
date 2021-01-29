@@ -10,6 +10,11 @@ assignees: IchiiDev
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Was it already known ?**
+*You can check this on [the Q&A discussion thread dedicated to Issues & Bug reports](https://github.com/IchiiDev/profile/discussions/3)*
+
+- [ ] No, It's a new bug
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
