@@ -157,12 +157,12 @@ hr {
 }
 
 @media (max-width: 600px) { 
-    
-    html, body {
-        overflow: visible;
+
+    body {
+        overflow-y: scroll !important;
     }
 
-    .profile {
+    .box.profile {
         width: 100%;
         height: 100%;
         margin: 0;
