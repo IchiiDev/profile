@@ -157,6 +157,11 @@ hr {
 }
 
 @media (max-width: 600px) { 
+    
+    html, body {
+        overflow: visible;
+    }
+
     .profile {
         width: 100%;
         height: 100%;
