@@ -17,6 +17,8 @@ $ cd profile
 
 You can include your profile picture to the folder as well with Discord badges and projects icons (Exemple badges and placeholders are included with the project). You can find a list of useful Discord assets in SVG here: [#ressources](#ressources)
 
+*Disclaimer:* I highly recommend not to host any of Discord assets on your own. Always consider directly using the Discord assets links (cf: [#ressources](#ressources))
+
 3. Edit the `assets\config.js` file to manage the page's content
    
 Open the `assets\config.js` file and edit the following configuration:
