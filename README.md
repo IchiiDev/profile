@@ -65,7 +65,7 @@ Here is a detailed documentation of every configuration parameters:
 <p>Copyright &copy Discord 2021, I do not own any of the Discord assets and these are hosted on Discord's website</p>
 
 - [`Discord Staff Badge`](https://canary.discord.com/assets/c5b2473c93c340dbe540e120a86a019f.svg) *Disclaimer*: Impersonating Discord Staffs is bad, the repository owner or contributors cannot be held responsible for any legal confrontation with Discord.
-- [`Discord Certified Moderator Badge`](https://canary.discord.com/assets/955e3c9783043c7080ac202565810fc3.svg) *⚠️ Warning* This badge still hasn't been officially announced and we still don't know if it will be released yet.
+- [`Discord Certified Moderator Badge`](https://canary.discord.com/assets/955e3c9783043c7080ac202565810fc3.svg)
 - [`Discord Partner Badge`](https://discord.com/assets/0d494d94157e71dd9cc064baad0f1b70.svg)
 - [`HypeSquad Events Badge`](https://discord.com/assets/6c73f47daf179ffade99f501bfc5101b.svg)
 - [`HypeSquad Bravery Badge`](https://discord.com/assets/64ae1208b6aefc0a0c3681e6be36f0ff.svg)
