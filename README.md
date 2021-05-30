@@ -1,5 +1,8 @@
 # Profile
 *Self hosted VueJS based Discord like web-profile*
+<div align="center">
+   <img src="https://i.discord.fr/OnK.png" align="center" />
+</div>
 
 ## How do I use it ?
 You'll only need a webserver like Apache or NGINX and to follow theses few steps:
