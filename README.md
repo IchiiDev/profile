@@ -1,7 +1,7 @@
 # Profile
 *Self hosted VueJS based Discord like web-profile*
 <div align="center">
-   <img src="https://i.discord.fr/OnK.png" align="center" />
+   <img src="https://i.discord.fr/Vh6.png" align="center" />
 </div>
 
 ## How do I use it ?
