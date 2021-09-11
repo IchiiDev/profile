@@ -6,8 +6,8 @@ const config = {
     DESCRIPTION: "Change this bio in the <b>assets/config.js</b> file. <i>It may include HTML syntax</i>",
 
     BADGES: [
-        { id: "HypeSquad Bravery", image: "https://discord.com/assets/64ae1208b6aefc0a0c3681e6be36f0ff.svg" },
-        { id: "Nitro Sub", image: "https://discord.com/assets/386884eecd36164487505ddfbac35a9d.svg" },
+        { id: "HypeSquad Bravery", image: "assets/img/hypesquad_bravery.svg" },
+        { id: "Nitro Sub", image: "assets/img/nitro_sub.svg" },
     ],
 
     PROJECTS: [
