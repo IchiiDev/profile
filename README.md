@@ -1,7 +1,7 @@
 # Profile
 *Self hosted VueJS based Discord like web-profile*
 <div align="center">
-   <img src="https://i.discord.fr/Vh6.png" align="center" />
+   <img src="https://i.discord.fr/XCm6.png" align="center" />
 </div>
 
 ## How do I use it ?
@@ -21,6 +21,7 @@ $ cd profile
 You can include your profile picture to the folder as well with Discord badges and projects icons (Exemple badges and placeholders are included with the project). You can find a list of useful Discord assets in SVG here: [#ressources](#ressources)
 
 *Disclaimer:* I highly recommend not to host any of Discord assets on your own. Always consider directly using the Discord assets links (cf: [#ressources](#ressources))
+EDIT (11/09/2021): For some reason, Discord is blocking assets for third party websites so you will need to host them on your web server.
 
 3. Edit the `assets\config.js` file to manage the page's content
    
