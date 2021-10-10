@@ -53,12 +53,15 @@ const config = {
 }
 ```
 
+### Use Gravatar for your profile picture
+You can now use a Gravatar image as your profile picture. In order to enable this feature, you'll need to have a [Gravatar email](https://fr.gravatar.com/emails/new/). Once you registered a profile picture and an email on Gravatar, just set the email you used as parameter for the `PICTURE` setting. However this will make your address public and I highly recommend using an email hash instead. To use it, simply [convert your e-mail address into a MD5 hash](https://www.md5hashgenerator.com/) and set it as parameter for the `PICTURE` setting.
+
 Here is a detailed documentation of every configuration parameters:
 
 | Key | Description |
 | ----------- | ----------- |
 | USERNAME | The user's nickname, will be used in the profile card headers & the webpage title |
-| PICTURE | The profile picture used in the profile card headers |
+| PICTURE | The profile picture used in the profile card headers [LINK / E-MAIL ADDRESS / HASH] |
 | DESCRIPTION | Short biography displayed in the profile card | 
 | BADGES | Object[] Each badges displayed in the profile card header |
 | PROJECTS | Object[] Each project displayed in the profile card |
