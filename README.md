@@ -73,6 +73,7 @@ Here is a detailed documentation of every configuration parameters:
 
 - [`Discord Staff Badge`](https://canary.discord.com/assets/c5b2473c93c340dbe540e120a86a019f.svg) *Disclaimer*: Impersonating Discord Staffs is bad, the repository owner or contributors cannot be held responsible for any legal confrontation with Discord.
 - [`Discord Certified Moderator Badge`](https://canary.discord.com/assets/955e3c9783043c7080ac202565810fc3.svg)
+- [`Discord Moderator Programs Alumni Badge`](https://canary.discord.com/assets/b945002f0e0fd7f11990d800e98b5504.svg)
 - [`Discord Partner Badge`](https://discord.com/assets/0d494d94157e71dd9cc064baad0f1b70.svg)
 - [`HypeSquad Events Badge`](https://discord.com/assets/6c73f47daf179ffade99f501bfc5101b.svg)
 - [`HypeSquad Bravery Badge`](https://discord.com/assets/64ae1208b6aefc0a0c3681e6be36f0ff.svg)
@@ -81,6 +82,7 @@ Here is a detailed documentation of every configuration parameters:
 - [`Bug Hunter Gold Badge`](https://discord.com/assets/9286332d6e947c91fa91569efce431b0.svg)
 - [`Bug Hunter Badge`](https://discord.com/assets/f61b8981e92feead854f52e5a1ba14f0.svg)
 - [`Early Verified Bot Developer Badge`](https://discord.com/assets/45cd06af582dcd3c6b79370b4e3630de.svg)
+- [`Active Developer Badge`](https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg)
 - [`Early Supporter Badge`](https://discord.com/assets/23e59d799436a73c024819f84ea0b627.svg)
 - [`Nitro Sub Badge`](https://discord.com/assets/386884eecd36164487505ddfbac35a9d.svg)
 - [`Nitro Boosting 1 Month Badge`](https://discord.com/assets/fbb6f1e160280f0e9aeb5d7c452eefe1.svg)
